@@ -40,8 +40,9 @@ Testing:
 
 <img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.22.png" alt="Alt text">  
 <img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.41.png" alt="Alt text">  
-
-
+<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.52.png" alt="Alt text">  
+<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.21.13.png" alt="Alt text"> 
+<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.21.24.png" alt="Alt text">  
                 
 
 ## 🔍 Project Description
