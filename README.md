@@ -86,8 +86,9 @@ https/4200 to your web browser to see the applications.
 
 
 ## ✨Functionalities
-- Adding users to the database
-- Removing users from the database
+-that adds products to the store
+-removes products
+-edits products
 
 
 ## ⚠️ Requirements
