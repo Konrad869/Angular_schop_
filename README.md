@@ -24,6 +24,7 @@ Testing:
 # Angular_Design 🚀
 
 ## 📋 Contents
+- [photos of the application in action](#-photosoftheapplicationinaction)
 - [Project Description](#-project-description)
 - [Installation](#-installation)
 - [Configuration](#-configuration)
