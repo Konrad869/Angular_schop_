@@ -67,6 +67,16 @@ npm install
 
 # activation
 ng serve
+
+# Go to the source project directory  in the server-master folder
+cd src
+
+$ Installing dependencies
+npm install
+
+# activation
+node server.js
+
 ``` 
 
 ## 🚀 Use
