@@ -71,7 +71,7 @@ ng serve
 # Go to the source project directory  in the server-master folder
 cd src
 
-$ Installing dependencies
+# Installing dependencies
 npm install
 
 # activation
