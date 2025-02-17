@@ -35,7 +35,7 @@ Testing:
 - [Requirements](#-Requirements)
 - [Contact](#-Contact)
 
-- 
+ 
 ##  photos of the application in action
 
 <img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.22.png" alt="Alt text">  
