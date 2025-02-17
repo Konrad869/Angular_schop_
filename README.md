@@ -1,56 +1,92 @@
-# Angular Storefront FE - Crash Course
+The Angular_Design application is an Angular application that adds users to the database. The application is unfinished but I am working on completing it. The application is built using mainly Angular v16, Typescript, Rxjs, SPA, Angular material technologies. To run it, download the ZIP files and open them in the IDE in the src directory. you need to install ng_modules using npm install and then issue the command ng s -o or npm start or ng serve  to run it.then you need to copy the https/4200 address to the web browser to see the applications.
 
-This project is a simple storefront built with Angular, showcasing various Angular concepts including standalone apps, modules, services, components, and routing. In this tutorial, users will learn how to perform basic CRUD (Create, Read, Update, Delete) operations on products.
+(This is a tested version of the application in technologies such as Jasmine and Karma unit tests were performed here).
 
-## Table of Contents
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+💻 Tech Stack:
 
-## Features
 
-- **Standalone App:** The project is structured as a standalone Angular application.
-- **Modules:** Utilizes Angular modules for better organization and separation of concerns.
-- **Services:** Demonstrates the use of Angular services for data management and business logic.
-- **Components:** Various components for different parts of the storefront, like product listing, editing, and addition.
-- **Routing:** Implements Angular routing to navigate between different sections of the application.
-- **CRUD Operations:** Users can perform Create, Read, Update, and Delete operations on products.
 
-## Getting Started
+Angular_Design is developed using following technologies:
+
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+Testing:
+
+
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> 
+
+
+# Angular_Design 🚀
+
+## 📋 Contents
+- [Project Description](#-project-description)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [Usage](#-use)
+- [Functionalities](#-Functionalities)
+- [Requirements](#-Requirements)
+- [Problem Solving](#-ProblemSolving)
+- [Requirements](#-Requirements)
+- [Contact](#-Contact)
+
+                
+
+## 🔍 Project Description
+The Angular_Design application is an Angular application that adds users to the database or removes them.
+
+## 💻Installation
 
 ### Prerequisites
+- Node.js (v16+)
+- above sea level
 
-Before you begin, ensure you have the following installed:
+### Installation steps
+```bash
+# Cloning the repository
+https://github.com/Konrad869/Angular_Design.git
 
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
-- Angular CLI: `npm install -g @angular/cli`
-- [Prime NG](https://primeng.org/)
+# Go to the source project directory
+cd src
 
-### Installation
+# Installing dependencies
+npm install
 
-1. Clone the repository:
+# activation
+ng serve
+``` 
 
-   ```bash
-   git clone https://github.com/thecodedeck/angular-cc-1-client.git
-   ```
+## 🚀 Use
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+### Basic startup
+https/4200 to your web browser to see the applications.
 
-## Usage
 
-1. Run the development server:
-   ```bash
-   ng serve
-   ```
-2. Open your browser and navigate to http://localhost:4200/ to see the app in action.
+## ✨Functionalities
+- Adding users to the database
+- Removing users from the database
 
-## License
 
-This project is licensed under the MIT License.
+## ⚠️ Requirements
+- Node.js installed 
+- Stable internet connection
+
+## 🐞 Problem Solving
+
+### The most common problems
+   - Check Node.js versions
+   - Check your internet connection
+
+## 🤝 Contact
+phone number - + 48 731 067 866
+
+email address - konradgo23@gmail.com
+
+
+
+
+
