@@ -34,6 +34,11 @@ Testing:
 - [Requirements](#-Requirements)
 - [Contact](#-Contact)
 
+- 
+##  photos of the application in action
+
+<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.22.png" alt="Alt text">
+
                 
 
 ## 🔍 Project Description
@@ -76,12 +81,6 @@ https/4200 to your web browser to see the applications.
 - Stable internet connection
 
 ## 🐞 Problem Solving
-
-##  photos of the application in action
-
-<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.22.png" alt="Alt text">
-
-
 
 ### The most common problems
    - Check Node.js versions
