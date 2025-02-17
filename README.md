@@ -46,7 +46,7 @@ Testing:
                 
 
 ## 🔍 Project Description
-The Angular_Design application is an Angular application that adds users to the database or removes them.
+The Angular_schop application is an application that adds products to the store, removes products, edits products by editing prices, names, photos.
 
 ## 💻Installation
 
