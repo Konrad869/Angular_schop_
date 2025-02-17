@@ -1,0 +1,34 @@
+
+<footer [class]="footerClass">
+  <div class="footer-content">
+
+    <div class="footer-main">
+      @if (companyInfo) {
+        <div class="company-info">
+          <ng-content select="[companyInfo]"></ng-content>
+        </div>
+      }
+      
+    
+      <div class="footer-links">
+        @for (section of footerSections; track section.id) {
+          <div class="footer-section">
+            <h3>{{ section.title }}</h3>
+            <ul>
+              @for (link of section.links; track link.id) {
+                <li><a [href]="link.url">{{ link.label }}</a></li>
+               
+              }
+            </ul>
+            
+          </div>
+        }
+      </div>
+    </div>
+
+   
+    <div class="footer-bottom">
+      <ng-content select="[footerBottom]"></ng-content>
+    </div>
+  </div>
+</footer>
