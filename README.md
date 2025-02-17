@@ -87,7 +87,9 @@ https/4200 to your web browser to see the applications.
 
 ## ✨Functionalities
 -that adds products to the store
+
 -removes products
+
 -edits products
 
 
